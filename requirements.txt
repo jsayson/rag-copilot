@@ -1,0 +1,1 @@
+pip install transformers sentence-transformers openai flask streamlit faiss-cpu numpy matplotlib
